@@ -1,0 +1,2 @@
+# Front-end-Practice-Projects
+A collection of my practice projects, assignments, and UI components built with modern tech stacks.
